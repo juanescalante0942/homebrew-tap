@@ -8,7 +8,7 @@ cask "oncore" do
   homepage "https://github.com/juanescalante0942/oncore-releases"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Oncore.app"
 

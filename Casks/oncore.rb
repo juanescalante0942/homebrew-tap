@@ -1,6 +1,6 @@
 cask "oncore" do
-  version "1.8.0"
-  sha256 "07d13ce83673b504590c6c0955d175ecea0d15847e2b56968938475b68950d1f"
+  version "1.8.1"
+  sha256 "fd1f2b1375dcd2f00c17862313aaa49b4dbdb6907fa6addfaee54f2c17e11088"
 
   url "https://github.com/juanescalante0942/oncore-releases/releases/download/mac-v#{version}/Oncore-#{version}-mac-arm64.dmg"
   name "Oncore"
